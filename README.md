@@ -1,6 +1,6 @@
 ## Machine Learning Exercises
 
-This repository contains the Python exercises accompanying the theory from my [machine learning book](https://franziskahorn.de/mlbook/ml4industry_guide.html).
+This repository contains the Python exercises accompanying the theory from my [machine learning book](https://franziskahorn.de/mlbook/).
 
 Also have a look at the [cheat sheet](https://github.com/cod3licious/ml_exercises/blob/main/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets.
 
