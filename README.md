@@ -2,9 +2,9 @@
 
 This repository contains the Python exercises accompanying the theory from my [machine learning book](https://franziskahorn.de/mlbook/).
 
-Also have a look at the [cheat sheet](https://github.com/cod3licious/ml_exercises/blob/main/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets.
+You might also want to have a look at the [cheat sheet](https://github.com/cod3licious/ml_exercises/blob/main/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets.
 
-If you're unfamiliar with Python, please have a look at [this tutorial](https://github.com/cod3licious/python_tutorial) first, which also includes some notes on how to install Python and Jupyter Notebook on your own computer (please make sure you're using Python 3 and all libraries listed in the `requirements.txt` file are installed and up to date (you can also verify this with the `test_installation.ipynb` notebook).
+If you're unfamiliar with Python, please have a look at [this tutorial](https://github.com/cod3licious/python_tutorial) before working on the exercises, which also includes some notes on how to install Python and Jupyter Notebook on your own computer (please make sure you're using Python 3 and all libraries listed in the `requirements.txt` file are installed and up to date (you can also verify this with the `test_installation.ipynb` notebook). <br>
 If you have a Google account, you can also run the code in the cloud using **Google Colab**:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cod3licious/ml_exercises)
 
