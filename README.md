@@ -18,7 +18,6 @@ Have fun!
 (You can also find the course syllabus on the last page of the course description.)
 
 ---
----
 
 ### Part 1:
 
@@ -32,7 +31,7 @@ Have fun!
 
 ##### Block 1.3:
 - [ ] Read the whole chapter: ["Data & Preprocessing"](https://franziskahorn.de/mlbook/_data_preprocessing.html)
-- [ ] Answer [Quiz 2](https://forms.gle/uzdzytpsYf9sFG946)
+- [ ] Answer [Quiz 2](https://forms.gle/Pqr6EKHNxzrWb7MF9)
 - [ ] Read the first part of the chapter ["ML Algorithms: Unsupervised & Supervised Learning"](https://franziskahorn.de/mlbook/_ml_algorithms_unsupervised_supervised_learning.html)
 
 ---
@@ -77,7 +76,7 @@ Have fun!
 - [ ] Read the whole chapter: ["Avoiding Common Pitfalls"](https://franziskahorn.de/mlbook/_avoiding_common_pitfalls.html)
 
 ##### Block 4.2:
-- [ ] Answer [Quiz 4](/exercises/1_visualize_text.ipynb)
+- [ ] Answer [Quiz 4](https://forms.gle/uZGj54YQHKwckmL46)
 - [ ] Work through [Notebook 6: analyze toy dataset](/exercises/6_analyze_toydata.ipynb)
 
 ##### Block 4.3:
@@ -85,15 +84,14 @@ Have fun!
 
 ---
 
-#### Part 5:
+### Part 5:
 
 ##### Block 5.1:
 - [ ] Read the whole chapter: ["ML Algorithms: Reinforcement Learning"](https://franziskahorn.de/mlbook/_ml_algorithms_reinforcement_learning.html)
 
 ##### Block 5.2:
-- [ ] Answer [Quiz 5](https://forms.gle/uzdzytpsYf9sFG946)
+- [ ] Answer [Quiz 5](https://forms.gle/fr7PYmP9Exx4Vvrc8)
 - [ ] Read the whole chapter: ["Conclusion: Using ML in Practice"](https://franziskahorn.de/mlbook/_conclusion_using_ml_in_practice.html)
-- [ ] Complete the exercise: ["Your next ML Project"](https://forms.gle/uzdzytpsYf9sFG946)
+- [ ] Complete the exercise: ["Your next ML Project"](/cheatsheet.pdf)
 
----
 ---
