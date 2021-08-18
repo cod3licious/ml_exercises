@@ -15,7 +15,7 @@ Have fun!
 
 ## Course Overview
 
-(You can also find the course syllabus on the last page of the course description.)
+(You can also find the course syllabus on the last page of the [course description](/course_description.pdf).)
 
 ---
 
