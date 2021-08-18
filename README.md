@@ -2,7 +2,7 @@
 
 This repository contains the Python exercises accompanying the theory from my [machine learning book](https://franziskahorn.de/mlbook/).
 
-You might also want to have a look at the [cheat sheet](https://github.com/cod3licious/ml_exercises/blob/main/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets.
+You might also want to have a look at the [cheat sheet](/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets.
 
 If you're unfamiliar with Python, please have a look at [this tutorial](https://github.com/cod3licious/python_tutorial) before working on the exercises, which also includes some notes on how to install Python and Jupyter Notebook on your own computer (please make sure you're using Python 3 and all libraries listed in the `requirements.txt` file are installed and up to date; you can verify this with the `test_installation.ipynb` notebook). <br>
 If you have a Google account, you can also run the code in the cloud using **Google Colab**:
@@ -32,7 +32,7 @@ Have fun!
 ##### Block 1.3:
 - [ ] Read the whole chapter: ["Data & Preprocessing"](https://franziskahorn.de/mlbook/_data_preprocessing.html)
 - [ ] Answer [Quiz 2](https://forms.gle/Pqr6EKHNxzrWb7MF9)
-- [ ] Read the first part of the chapter ["ML Algorithms: Unsupervised & Supervised Learning"](https://franziskahorn.de/mlbook/_ml_algorithms_unsupervised_supervised_learning.html)
+- [ ] Read the first section of the chapter ["ML Algorithms: Unsupervised & Supervised Learning"](https://franziskahorn.de/mlbook/_ml_algorithms_unsupervised_supervised_learning.html)
 
 ---
 
@@ -49,7 +49,7 @@ Have fun!
 
 ##### Block 2.3:
 - [ ] Read the section: ["Supervised Learning: Overview"](https://franziskahorn.de/mlbook/_supervised_learning_overview.html)
-- [ ] Answer [Quiz 3](https://forms.gle/uzdzytpsYf9sFG946)
+- [ ] Answer [Quiz 3](https://forms.gle/M2dDevwzicjcHLtc9)
 
 ---
 
