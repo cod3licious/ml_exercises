@@ -1,10 +1,10 @@
-## Machine Learning Exercises
+# Machine Learning Exercises
 
 This repository contains the Python exercises accompanying the theory from my [machine learning book](https://franziskahorn.de/mlbook/).
 
 You might also want to have a look at the [cheat sheet](https://github.com/cod3licious/ml_exercises/blob/main/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets.
 
-If you're unfamiliar with Python, please have a look at [this tutorial](https://github.com/cod3licious/python_tutorial) before working on the exercises, which also includes some notes on how to install Python and Jupyter Notebook on your own computer (please make sure you're using Python 3 and all libraries listed in the `requirements.txt` file are installed and up to date (you can also verify this with the `test_installation.ipynb` notebook). <br>
+If you're unfamiliar with Python, please have a look at [this tutorial](https://github.com/cod3licious/python_tutorial) before working on the exercises, which also includes some notes on how to install Python and Jupyter Notebook on your own computer (please make sure you're using Python 3 and all libraries listed in the `requirements.txt` file are installed and up to date; you can verify this with the `test_installation.ipynb` notebook). <br>
 If you have a Google account, you can also run the code in the cloud using **Google Colab**:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cod3licious/ml_exercises)
 
@@ -13,12 +13,12 @@ If you have any questions, please drop me a line at `hey[at]franziskahorn.de`.
 Have fun!
 
 
-### Course Overview
+## Course Overview
 
 (You can also find the course syllabus on the last page of the course description.)
 
 
-#### Part 1:
+### Part 1:
 
 ##### Block 1.1:
 - [ ] Read the whole chapter: ["Introduction: Solving Problems with ML"](https://franziskahorn.de/mlbook/_introduction_solving_problems_with_ml.html)
@@ -35,7 +35,7 @@ Have fun!
 
 
 
-#### Part 2:
+### Part 2:
 
 ##### Block 2.1:
 - [ ] Read the section: ["UL: Dimensionality Reduction"](https://franziskahorn.de/mlbook/_ul_dimensionality_reduction.html)
@@ -52,10 +52,10 @@ Have fun!
 
 
 
-#### Part 3:
+### Part 3:
 
 ##### Block 3.1:
-- [ ] Read the sections: ["SL: Linear Models"](https://franziskahorn.de/mlbook/_sl_linear_models.html) - ["SL: Kernel Methods"](https://franziskahorn.de/mlbook/_sl_kernel_methods.html)
+- [ ] Read the sections: ["SL: Linear Models"](https://franziskahorn.de/mlbook/_sl_linear_models.html) up to and including ["SL: Kernel Methods"](https://franziskahorn.de/mlbook/_sl_kernel_methods.html)
 - [ ] In parallel, work through the respective sections of [Notebook 3: supervised comparison](/exercises/3_supervised_comparison.ipynb)
 
 ##### Block 3.2:
@@ -64,18 +64,18 @@ Have fun!
 
 ##### Block 3.3:
 - [ ] Read the section: ["SL: Neural Networks"](https://franziskahorn.de/mlbook/_sl_neural_networks.html)
-- [ ] Work through [Notebook 5: MNIST with torch](/exercises/5_mnist_torch.ipynb) (recommended) or [MNIST with keras](/exercises/5_mnist_keras.ipynb) (in case others in your organization are already working with TensorFlow)
+- [ ] Work through [Notebook 5: MNIST with torch](/exercises/5_mnist_torch.ipynb) (recommended) **_or_** [MNIST with keras](/exercises/5_mnist_keras.ipynb) (in case others in your organization are already working with TensorFlow)
 - [ ] Read the sections: ["Time Series Forecasting"](https://franziskahorn.de/mlbook/_time_series_forecasting.html) and ["Recommender Systems (Pairwise Data)"](https://franziskahorn.de/mlbook/_recommender_systems_pairwise_data.html)
 
 
 
-#### Part 4:
+### Part 4:
 
 ##### Block 4.1:
 - [ ] Read the whole chapter: ["Avoiding Common Pitfalls"](https://franziskahorn.de/mlbook/_avoiding_common_pitfalls.html)
-- [ ] Answer [Quiz 4](/exercises/1_visualize_text.ipynb)
 
 ##### Block 4.2:
+- [ ] Answer [Quiz 4](/exercises/1_visualize_text.ipynb)
 - [ ] Work through [Notebook 6: analyze toy dataset](/exercises/6_analyze_toydata.ipynb)
 
 ##### Block 4.3:
@@ -91,7 +91,7 @@ Have fun!
 ##### Block 5.2:
 - [ ] Answer [Quiz 5](https://forms.gle/uzdzytpsYf9sFG946)
 - [ ] Read the whole chapter: ["Conclusion: Using ML in Practice"](https://franziskahorn.de/mlbook/_conclusion_using_ml_in_practice.html)
-- [ ] [Exercise: plan your next ML project](https://forms.gle/uzdzytpsYf9sFG946)
+- [ ] Complete the exercise: ["Your next ML Project"](https://forms.gle/uzdzytpsYf9sFG946)
 
 
 
