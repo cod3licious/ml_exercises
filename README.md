@@ -17,6 +17,8 @@ Have fun!
 
 (You can also find the course syllabus on the last page of the course description.)
 
+---
+---
 
 ### Part 1:
 
@@ -33,7 +35,7 @@ Have fun!
 - [ ] Answer [Quiz 2](https://forms.gle/uzdzytpsYf9sFG946)
 - [ ] Read the first part of the chapter ["ML Algorithms: Unsupervised & Supervised Learning"](https://franziskahorn.de/mlbook/_ml_algorithms_unsupervised_supervised_learning.html)
 
-
+---
 
 ### Part 2:
 
@@ -50,7 +52,7 @@ Have fun!
 - [ ] Read the section: ["Supervised Learning: Overview"](https://franziskahorn.de/mlbook/_supervised_learning_overview.html)
 - [ ] Answer [Quiz 3](https://forms.gle/uzdzytpsYf9sFG946)
 
-
+---
 
 ### Part 3:
 
@@ -67,7 +69,7 @@ Have fun!
 - [ ] Work through [Notebook 5: MNIST with torch](/exercises/5_mnist_torch.ipynb) (recommended) **_or_** [MNIST with keras](/exercises/5_mnist_keras.ipynb) (in case others in your organization are already working with TensorFlow)
 - [ ] Read the sections: ["Time Series Forecasting"](https://franziskahorn.de/mlbook/_time_series_forecasting.html) and ["Recommender Systems (Pairwise Data)"](https://franziskahorn.de/mlbook/_recommender_systems_pairwise_data.html)
 
-
+---
 
 ### Part 4:
 
@@ -81,7 +83,7 @@ Have fun!
 ##### Block 4.3:
 - [ ] _Case Study!_ [Notebook 7: predicting hard drive failures](/exercises/7_hard_drive_failures.ipynb) (plan at least 5 hours for this!)
 
-
+---
 
 #### Part 5:
 
@@ -93,6 +95,5 @@ Have fun!
 - [ ] Read the whole chapter: ["Conclusion: Using ML in Practice"](https://franziskahorn.de/mlbook/_conclusion_using_ml_in_practice.html)
 - [ ] Complete the exercise: ["Your next ML Project"](https://forms.gle/uzdzytpsYf9sFG946)
 
-
-
-
+---
+---
