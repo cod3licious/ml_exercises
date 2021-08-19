@@ -92,6 +92,6 @@ Have fun!
 ##### Block 5.2:
 - [ ] Answer [Quiz 5](https://forms.gle/fr7PYmP9Exx4Vvrc8)
 - [ ] Read the whole chapter: ["Conclusion: Using ML in Practice"](https://franziskahorn.de/mlbook/_conclusion_using_ml_in_practice.html)
-- [ ] Complete the exercise: ["Your next ML Project"](/cheatsheet.pdf)
+- [ ] Complete the exercise: ["Your next ML Project"](/exercise_your_ml_project.pdf)
 
 ---
