@@ -88,6 +88,7 @@ Have fun!
 
 ##### Block 5.1:
 - [ ] Read the whole chapter: ["ML Algorithms: Reinforcement Learning"](https://franziskahorn.de/mlbook/_ml_algorithms_reinforcement_learning.html)
+- [ ] Work through [Notebook 8: RL gridmove](/exercises/8_rl_gridmove.ipynb)
 
 ##### Block 5.2:
 - [ ] Answer [Quiz 5](https://forms.gle/fr7PYmP9Exx4Vvrc8)
