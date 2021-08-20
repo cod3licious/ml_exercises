@@ -27,7 +27,7 @@ Have fun!
 
 ##### Block 1.2:
 - [ ] Read the whole chapter: ["ML with Python"](https://franziskahorn.de/mlbook/_ml_with_python.html)
-- [ ] Install Python on your computer and complete the [Python tutorial](https://github.com/cod3licious/python_tutorial)
+- [ ] Install Python on your computer and complete the [Python tutorial](https://github.com/cod3licious/python_tutorial) (if you haven't done this already)
 
 ##### Block 1.3:
 - [ ] Read the whole chapter: ["Data & Preprocessing"](https://franziskahorn.de/mlbook/_data_preprocessing.html)
