@@ -24,7 +24,7 @@ For an optimal learning experience, the chapters from the [machine learning book
 ### Part 1: Getting started: What is ML?
 
 ##### Block 1.1:
-- [ ] Read the whole chapter: ["Introduction: Solving Problems with ML"](https://franziskahorn.de/mlbook/_introduction_solving_problems_with_ml.html)
+- [ ] Read the whole chapter: ["Introduction"](https://franziskahorn.de/mlbook/_introduction.html)
 - [ ] Answer [Quiz 1](https://forms.gle/uzdzytpsYf9sFG946)
 
 ##### Block 1.2:
@@ -34,40 +34,41 @@ For an optimal learning experience, the chapters from the [machine learning book
 ##### Block 1.3:
 - [ ] Read the whole chapter: ["Data & Preprocessing"](https://franziskahorn.de/mlbook/_data_preprocessing.html)
 - [ ] Answer [Quiz 2](https://forms.gle/Pqr6EKHNxzrWb7MF9)
-- [ ] Read the introductory part of the chapter ["ML Algorithms: Unsupervised & Supervised Learning"](https://franziskahorn.de/mlbook/_ml_algorithms_unsupervised_supervised_learning.html)
+
+##### Block 1.4:
+- [ ] Read the whole chapter ["ML Solutions: Overview"](https://franziskahorn.de/mlbook/_ml_solutions_overview.html)
+- [ ] Answer [Quiz 3](https://forms.gle/fr7PYmP9Exx4Vvrc8)
 
 ---
 
 ### Part 2: Your first algorithms
 
 ##### Block 2.1:
-- [ ] Read the section: ["UL: Dimensionality Reduction"](https://franziskahorn.de/mlbook/_ul_dimensionality_reduction.html)
-- [ ] Work through [Notebook 1: visualize text](/exercises/1_visualize_text.ipynb)
+- [ ] Read the whole chapter: ["Unsupervised Learning"](https://franziskahorn.de/mlbook/_unsupervised_learning.html)
+- [ ] Work through [Notebook 1: visualize text](/exercises/1_visualize_text.ipynb) (after the section on dimensionality reduction)
+- [ ] Work through [Notebook 2: image quantization](/exercises/2_image_quantization.ipynb) (after the section on clustering)
 
 ##### Block 2.2:
-- [ ] Read the section: ["UL: Outlier / Anomaly Detection"](https://franziskahorn.de/mlbook/_ul_outlier_anomaly_detection.html)
-- [ ] Read the section: ["UL: Clustering"](https://franziskahorn.de/mlbook/_ul_clustering.html)
-- [ ] Work through [Notebook 2: image quantization](/exercises/2_image_quantization.ipynb)
-
-##### Block 2.3:
-- [ ] Read the section: ["Supervised Learning: Overview"](https://franziskahorn.de/mlbook/_supervised_learning_overview.html)
-- [ ] Answer [Quiz 3](https://forms.gle/M2dDevwzicjcHLtc9)
+- [ ] Read the first sections of the chapter ["Supervised Learning"](https://franziskahorn.de/mlbook/_supervised_learning.html) up to and including ["Model Evaluation"](https://franziskahorn.de/mlbook/_model_evaluation.html)
+- [ ] Answer [Quiz 4](https://forms.gle/M2dDevwzicjcHLtc9)
 
 ---
 
 ### Part 3: Advanced models
 
 ##### Block 3.1:
-- [ ] Read the sections: ["SL: Linear Models"](https://franziskahorn.de/mlbook/_sl_linear_models.html) up to and including ["SL: Kernel Methods"](https://franziskahorn.de/mlbook/_sl_kernel_methods.html)
+- [ ] Read the remaining sections from the supervised learning chapter, i.e., ["Linear Models"](https://franziskahorn.de/mlbook/_linear_models.html) up to and including ["Kernel Methods"](https://franziskahorn.de/mlbook/_kernel_methods.html)
 - [ ] **In parallel**, work through the respective sections of [Notebook 3: supervised comparison](/exercises/3_supervised_comparison.ipynb)
 
 ##### Block 3.2:
-- [ ] Read the section: ["Information Retrieval (Similarity Search)"](https://franziskahorn.de/mlbook/_information_retrieval_similarity_search.html) and review the sections on [TF-IDF feature vectors](https://franziskahorn.de/mlbook/_feature_extraction.html) and [cosine similarity](https://franziskahorn.de/mlbook/_computing_similarities.html)
+- [ ] Start with the chapter ["Deep Learning & more"](https://franziskahorn.de/mlbook/_deep_learning_more.html) up to and including the section: ["Information Retrieval (Similarity Search)"](https://franziskahorn.de/mlbook/_information_retrieval_similarity_search.html) and refresh your memory on the sections on [TF-IDF feature vectors](https://franziskahorn.de/mlbook/_feature_extraction.html) and [cosine similarity](https://franziskahorn.de/mlbook/_computing_similarities.html)
 - [ ] Work through [Notebook 4: information retrieval](/exercises/4_information_retrieval.ipynb)
 
 ##### Block 3.3:
-- [ ] Read the section: ["SL: Neural Networks"](https://franziskahorn.de/mlbook/_sl_neural_networks.html)
+- [ ] Read the section: ["Deep Learning (Neural Networks)"](https://franziskahorn.de/mlbook/_deep_learning_neural_networks.html)
 - [ ] Work through [Notebook 5: MNIST with torch](/exercises/5_mnist_torch.ipynb) (recommended) **_or_** [MNIST with keras](/exercises/5_mnist_keras.ipynb) (in case others in your organization are already working with TensorFlow)
+
+##### Block 3.4:
 - [ ] Read the sections: ["Time Series Forecasting"](https://franziskahorn.de/mlbook/_time_series_forecasting.html) and ["Recommender Systems (Pairwise Data)"](https://franziskahorn.de/mlbook/_recommender_systems_pairwise_data.html)
 
 ---
@@ -78,7 +79,7 @@ For an optimal learning experience, the chapters from the [machine learning book
 - [ ] Read the whole chapter: ["Avoiding Common Pitfalls"](https://franziskahorn.de/mlbook/_avoiding_common_pitfalls.html)
 
 ##### Block 4.2:
-- [ ] Answer [Quiz 4](https://forms.gle/uZGj54YQHKwckmL46)
+- [ ] Answer [Quiz 5](https://forms.gle/uZGj54YQHKwckmL46)
 - [ ] Work through [Notebook 6: analyze toy dataset](/exercises/6_analyze_toydata.ipynb)
 
 ##### Block 4.3:
@@ -89,12 +90,11 @@ For an optimal learning experience, the chapters from the [machine learning book
 ### Part 5: RL & Conclusion
 
 ##### Block 5.1:
-- [ ] Read the whole chapter: ["ML Algorithms: Reinforcement Learning"](https://franziskahorn.de/mlbook/_ml_algorithms_reinforcement_learning.html)
+- [ ] Read the whole chapter: ["Reinforcement Learning"](https://franziskahorn.de/mlbook/_reinforcement_learning.html)
 - [ ] Work through [Notebook 8: RL gridmove](/exercises/8_rl_gridmove.ipynb)
 
 ##### Block 5.2:
-- [ ] Answer [Quiz 5](https://forms.gle/fr7PYmP9Exx4Vvrc8)
-- [ ] Read the whole chapter: ["Conclusion: Using ML in Practice"](https://franziskahorn.de/mlbook/_conclusion_using_ml_in_practice.html)
+- [ ] Read the whole chapter: ["Conclusion"](https://franziskahorn.de/mlbook/_conclusion.html)
 - [ ] Complete the exercise: ["Your next ML Project"](/exercise_your_ml_project.pdf)
 
 ---
