@@ -16,8 +16,10 @@ Have fun!
 
 ## Course Overview
 
-For an optimal learning experience, the chapters from the [machine learning book](https://franziskahorn.de/mlbook/) should be interleaved with quizzes and programming exercises as shown below.
+For an optimal learning experience, the chapters from the [machine learning book](https://franziskahorn.de/mlbook/) should be interleaved with quizzes and programming exercises as shown below. Additionally, you should take notes in the worksheet while working through the materials.
 (You can also find the course syllabus on the last page of the [course description](/course_description.pdf), which explicitly lists all the sections of the book for each block.)
+
+**Important:** Please take note of all questions that arise while working on the materials (e.g., both in the worksheet, as well as the different notebooks, you'll be prompted to answer several questions; if the answer to any of them is still unclear after reading the respective sections of the book, please include them in this list). At the beginning of each group session we'll collect all questions that you still have and discuss them.
 
 ---
 
@@ -79,7 +81,6 @@ For an optimal learning experience, the chapters from the [machine learning book
 - [ ] Read the whole chapter: ["Avoiding Common Pitfalls"](https://franziskahorn.de/mlbook/_avoiding_common_pitfalls.html)
 
 ##### Block 4.2:
-- [ ] Answer [Quiz 5](https://forms.gle/uZGj54YQHKwckmL46)
 - [ ] Work through [Notebook 6: analyze toy dataset](/exercises/6_analyze_toydata.ipynb)
 
 ##### Block 4.3:
@@ -94,6 +95,7 @@ For an optimal learning experience, the chapters from the [machine learning book
 - [ ] Work through [Notebook 8: RL gridmove](/exercises/8_rl_gridmove.ipynb)
 
 ##### Block 5.2:
+- [ ] Answer [Quiz 5](https://forms.gle/uZGj54YQHKwckmL46)
 - [ ] Read the whole chapter: ["Conclusion"](https://franziskahorn.de/mlbook/_conclusion.html)
 - [ ] Complete the exercise: ["Your next ML Project"](/exercise_your_ml_project.pdf)
 
