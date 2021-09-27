@@ -17,7 +17,7 @@ Have fun!
 ## Course Overview
 
 For an optimal learning experience, the chapters from the [machine learning book](https://franziskahorn.de/mlbook/) should be interleaved with quizzes and programming exercises as shown below. Additionally, you should take notes in the worksheet while working through the materials.
-(You can also find the course syllabus on the last page of the [course description](/course_description.pdf), which explicitly lists all the sections of the book for each block.)
+(You can also find the course syllabus on the last page of the [course description](/ml_course_description.pdf), which explicitly lists all the sections of the book for each block.)
 
 **Important:** Please take note of all questions that arise while working on the materials (e.g., both in the worksheet, as well as the different notebooks, you'll be prompted to answer several questions; if the answer to any of them is still unclear after reading the respective sections of the book, please include them in this list). At the beginning of each group session we'll collect all questions that you still have and discuss them.
 
