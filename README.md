@@ -2,12 +2,10 @@
 
 This repository contains the exercises accompanying the theory from my [machine learning book](https://franziskahorn.de/mlbook/).
 
-You might also want to have a look at the [cheat sheet](/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets.
-
 The programming exercises are written in Python. If you're unfamiliar with Python, please have a look at [this tutorial](https://github.com/cod3licious/python_tutorial) before working on the exercises, which also includes some notes on how to install Python and Jupyter Notebook on your own computer (please make sure you're using Python 3 and all libraries listed in the [`requirements.txt`](/requirements.txt) file are installed and up to date; you can verify this with the [`test_installation.ipynb`](/test_installation.ipynb) notebook). <br>
 If you have a Google account, you can also run the code in the cloud using **Google Colab**:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cod3licious/ml_exercises) <br>
-While Google Colab already includes most packages that we need, should you require an additional library (e.g., `skorch` for training PyTorch neural networks in notebook 5), you can install it by executing `!pip install package` in a notebook cell. With Colab, it is also possible to run code on a GPU, but this has to be manually selected.
+While Google Colab already includes most packages that we need, should you require an additional library (e.g., `skorch` for training PyTorch neural networks in notebook 5), you can install a package by executing `!pip install package` in a notebook cell. With Colab, it is also possible to run code on a GPU, but this has to be manually selected.
 
 If you have any questions, please send me an [email](mailto:hey@franziskahorn.de).
 
@@ -17,9 +15,10 @@ Have fun!
 ## Course Overview
 
 For an optimal learning experience, the chapters from the [machine learning book](https://franziskahorn.de/mlbook/) should be interleaved with quizzes and programming exercises as shown below. Additionally, you should take notes in the worksheet while working through the materials.
-(You can also find the course syllabus on the last page of the [course description](/ml_course_description.pdf), which explicitly lists all the sections of the book for each block.)
 
 **Important:** Please take note of all questions that arise while working on the materials (e.g., both in the worksheet, as well as the different notebooks, you'll be prompted to answer several questions; if the answer to any of them is still unclear after reading the respective sections of the book, please include them in this list). At the beginning of each group session we'll collect all questions that you still have and discuss them.
+
+You can also find the course syllabus on the last page of the [course description](/ml_course_description.pdf), which explicitly lists all the sections of the book for each block.
 
 ---
 
@@ -82,6 +81,7 @@ For an optimal learning experience, the chapters from the [machine learning book
 
 ##### Block 4.2:
 - [ ] Work through [Notebook 6: analyze toy dataset](/exercises/6_analyze_toydata.ipynb)
+- [ ] Have a look at the [cheat sheet](/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets
 
 ##### Block 4.3:
 - [ ] _Case Study!_ [Notebook 7: predicting hard drive failures](/exercises/7_hard_drive_failures.ipynb) (plan at least 5 hours for this!)
