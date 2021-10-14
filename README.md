@@ -47,7 +47,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 ##### Block 1.4:
 - [ ] Read the whole chapter ["ML Solutions: Overview"](https://franziskahorn.de/mlbook/_ml_solutions_overview.html)
 - [ ] Answer [Quiz 3](https://forms.gle/fr7PYmP9Exx4Vvrc8)
-- [ ] Prepare a [90-second Spotlight presentation](/ml_use_cases_spotlight.pdf) for one of the given ML use cases
+- [ ] Prepare a [90-second Spotlight presentation](/exercise_ml_use_cases_spotlight.pdf) for one of the given ML use cases
 
 ---
 
