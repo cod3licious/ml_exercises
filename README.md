@@ -2,21 +2,29 @@
 
 This repository contains the exercises accompanying the theory from my [machine learning book](https://franziskahorn.de/mlbook/).
 
-The programming exercises are written in Python. If you're unfamiliar with Python, please have a look at [this tutorial](https://github.com/cod3licious/python_tutorial) before working on the exercises, which also includes some notes on how to install Python and Jupyter Notebook on your own computer (please make sure you're using Python 3 and all libraries listed in the [`requirements.txt`](/requirements.txt) file are installed and up to date; you can verify this with the [`test_installation.ipynb`](/test_installation.ipynb) notebook). <br>
-If you have a Google account, you can also run the code in the cloud using **Google Colab**:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cod3licious/ml_exercises) <br>
-While Google Colab already includes most packages that we need, should you require an additional library (e.g., `skorch` for training PyTorch neural networks in notebook 5), you can install a package by executing `!pip install package` in a notebook cell. With Colab, it is also possible to run code on a GPU, but this has to be manually selected.
-
 If you have any questions, please send me an [email](mailto:hey@franziskahorn.de).
 
 Have fun!
 
+### Using Python
+
+The programming exercises are written in Python. If you're unfamiliar with Python, you should work through [this tutorial](https://github.com/cod3licious/python_tutorial) at the beginning of the course.
+
+##### Using Python on your own computer
+The [Python tutorial](https://github.com/cod3licious/python_tutorial) includes some notes on how to install Python and Jupyter Notebook on your own computer. <br>
+Please make sure you're using Python 3 and all libraries listed in the [`requirements.txt`](/requirements.txt) file are installed and up to date. You can verify this with the [`test_installation.ipynb`](/test_installation.ipynb) notebook.
+
+##### Using Google Colab
+If you have a Google account, you can also run the code in the cloud using Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cod3licious/ml_exercises) <br>
+While Google Colab already includes most packages that we need, should you require an additional library (e.g., `skorch` for training PyTorch neural networks in notebook 5), you can install a package by executing `!pip install package` in a notebook cell. With Colab, it is also possible to run code on a GPU, but this has to be manually selected.
+
 
 ## Course Overview
 
-For an optimal learning experience, the chapters from the [machine learning book](https://franziskahorn.de/mlbook/) should be interleaved with quizzes and programming exercises as shown below. Additionally, you should take notes in the worksheet while working through the materials.
+For an optimal learning experience, the chapters from the [machine learning book](https://franziskahorn.de/mlbook/) should be interleaved with quizzes and programming exercises as shown below. Additionally, you should take notes in the workbook while working through the materials.
 
-**Important:** Please take note of all questions that arise while working on the materials (e.g., both in the worksheet, as well as the different notebooks, you'll be prompted to answer several questions; if the answer to any of them is still unclear after reading the respective sections of the book, please include them in this list). At the beginning of each group session we'll collect all questions that you still have and discuss them.
+**Important:** Please make note of all questions that arise while working through the materials. At the beginning of each group session, we'll collect everyone's questions and discuss them.
 
 You can also find the course syllabus on the last page of the [course description](/ml_course_description.pdf), which explicitly lists all the sections of the book for each block.
 
@@ -30,7 +38,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 
 ##### Block 1.2:
 - [ ] Read the whole chapter: ["ML with Python"](https://franziskahorn.de/mlbook/_ml_with_python.html)
-- [ ] Install Python on your computer and complete the [Python tutorial](https://github.com/cod3licious/python_tutorial) (if you haven't done this already)
+- [ ] Install Python on your computer and complete the [Python tutorial](https://github.com/cod3licious/python_tutorial)
 
 ##### Block 1.3:
 - [ ] Read the whole chapter: ["Data & Preprocessing"](https://franziskahorn.de/mlbook/_data_preprocessing.html)
@@ -39,6 +47,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 ##### Block 1.4:
 - [ ] Read the whole chapter ["ML Solutions: Overview"](https://franziskahorn.de/mlbook/_ml_solutions_overview.html)
 - [ ] Answer [Quiz 3](https://forms.gle/fr7PYmP9Exx4Vvrc8)
+- [ ] Prepare a [90-second Spotlight presentation](/ml_use_cases_spotlight.pdf) for one of the given ML use cases
 
 ---
 
@@ -84,7 +93,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 - [ ] Have a look at the [cheat sheet](/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets
 
 ##### Block 4.3:
-- [ ] _Case Study!_ [Notebook 7: predicting hard drive failures](/exercises/7_hard_drive_failures.ipynb) (plan at least 5 hours for this!)
+- [ ] _Case Study!_ Work through [Notebook 7: predicting hard drive failures](/exercises/7_hard_drive_failures.ipynb) (plan at least 5 hours for this!)
 
 ---
 
@@ -97,6 +106,6 @@ You can also find the course syllabus on the last page of the [course descriptio
 ##### Block 5.2:
 - [ ] Answer [Quiz 5](https://forms.gle/uZGj54YQHKwckmL46)
 - [ ] Read the whole chapter: ["Conclusion"](https://franziskahorn.de/mlbook/_conclusion.html)
-- [ ] Complete the exercise: ["Your next ML Project"](/exercise_your_ml_project.pdf)
+- [ ] Complete the exercise: ["Your next ML Project"](/exercise_your_ml_project.pdf) (in case you need some inspiration for a project idea, have a look at [how ML could be used to fight climate change](https://www.climatechange.ai/summaries)). Feel free to prepare a few slides or use the [Word template](/exercise_your_ml_project_template.docx) and aim for a 5 minute presentation.
 
 ---
