@@ -47,7 +47,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 ##### Block 1.4:
 - [ ] Read the whole chapter ["ML Solutions: Overview"](https://franziskahorn.de/mlbook/_ml_solutions_overview.html)
 - [ ] Answer [Quiz 3](https://forms.gle/fr7PYmP9Exx4Vvrc8)
-- [ ] Prepare a [90-second Spotlight presentation](/exercise_ml_use_cases_spotlight.pdf) for one of the given ML use cases
+- [ ] Prepare a [90-second Spotlight presentation](/other/exercise_ml_use_cases_spotlight.pdf) for one of the given ML use cases
 
 ---
 
@@ -90,7 +90,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 
 ##### Block 4.2:
 - [ ] Work through [Notebook 6: analyze toy dataset](/notebooks/6_analyze_toydata.ipynb)
-- [ ] Have a look at the [cheat sheet](/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets
+- [ ] Have a look at the [cheat sheet](/other/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets
 
 ##### Block 4.3:
 - [ ] _Case Study!_ Work through [Notebook 7: predicting hard drive failures](/notebooks/7_hard_drive_failures.ipynb) (plan at least 5 hours for this!)
@@ -106,6 +106,6 @@ You can also find the course syllabus on the last page of the [course descriptio
 ##### Block 5.2:
 - [ ] Answer [Quiz 5](https://forms.gle/uZGj54YQHKwckmL46)
 - [ ] Read the whole chapter: ["Conclusion"](https://franziskahorn.de/mlbook/_conclusion.html)
-- [ ] Complete the exercise: ["Your next ML Project"](/exercise_your_ml_project.pdf) (in case you need some inspiration for a project idea, have a look at [how ML could be used to fight climate change](https://www.climatechange.ai/summaries)). Feel free to prepare a few slides or use the [Word template](/exercise_your_ml_project_template.docx) and aim for a 5 minute presentation.
+- [ ] Complete the exercise: ["Your next ML Project"](/other/exercise_your_ml_project.pdf) (in case you need some inspiration for a project idea, have a look at [how ML could be used to fight climate change](https://www.climatechange.ai/summaries)). Feel free to prepare a few slides or use the [Word template](/other/exercise_your_ml_project_template.docx) and aim for a 5 minute presentation.
 
 ---
