@@ -55,8 +55,8 @@ You can also find the course syllabus on the last page of the [course descriptio
 
 ##### Block 2.1:
 - [ ] Read the whole chapter: ["Unsupervised Learning"](https://franziskahorn.de/mlbook/_unsupervised_learning.html)
-- [ ] Work through [Notebook 1: visualize text](/exercises/1_visualize_text.ipynb) (after the section on dimensionality reduction)
-- [ ] Work through [Notebook 2: image quantization](/exercises/2_image_quantization.ipynb) (after the section on clustering)
+- [ ] Work through [Notebook 1: visualize text](/notebooks/1_visualize_text.ipynb) (after the section on dimensionality reduction)
+- [ ] Work through [Notebook 2: image quantization](/notebooks/2_image_quantization.ipynb) (after the section on clustering)
 
 ##### Block 2.2:
 - [ ] Read the first sections of the chapter ["Supervised Learning"](https://franziskahorn.de/mlbook/_supervised_learning.html) up to and including ["Model Evaluation"](https://franziskahorn.de/mlbook/_model_evaluation.html)
@@ -68,15 +68,15 @@ You can also find the course syllabus on the last page of the [course descriptio
 
 ##### Block 3.1:
 - [ ] Read the remaining sections from the supervised learning chapter, i.e., ["Linear Models"](https://franziskahorn.de/mlbook/_linear_models.html) up to and including ["Kernel Methods"](https://franziskahorn.de/mlbook/_kernel_methods.html)
-- [ ] **In parallel**, work through the respective sections of [Notebook 3: supervised comparison](/exercises/3_supervised_comparison.ipynb)
+- [ ] **In parallel**, work through the respective sections of [Notebook 3: supervised comparison](/notebooks/3_supervised_comparison.ipynb)
 
 ##### Block 3.2:
 - [ ] Start with the chapter ["Deep Learning & more"](https://franziskahorn.de/mlbook/_deep_learning_more.html) up to and including the section: ["Information Retrieval (Similarity Search)"](https://franziskahorn.de/mlbook/_information_retrieval_similarity_search.html) and refresh your memory on the sections on [TF-IDF feature vectors](https://franziskahorn.de/mlbook/_feature_extraction.html) and [cosine similarity](https://franziskahorn.de/mlbook/_computing_similarities.html)
-- [ ] Work through [Notebook 4: information retrieval](/exercises/4_information_retrieval.ipynb)
+- [ ] Work through [Notebook 4: information retrieval](/notebooks/4_information_retrieval.ipynb)
 
 ##### Block 3.3:
 - [ ] Read the section: ["Deep Learning (Neural Networks)"](https://franziskahorn.de/mlbook/_deep_learning_neural_networks.html)
-- [ ] Work through [Notebook 5: MNIST with torch](/exercises/5_mnist_torch.ipynb) (recommended) **_or_** [MNIST with keras](/exercises/5_mnist_keras.ipynb) (in case others in your organization are already working with TensorFlow)
+- [ ] Work through [Notebook 5: MNIST with torch](/notebooks/5_mnist_torch.ipynb) (recommended) **_or_** [MNIST with keras](/notebooks/5_mnist_keras.ipynb) (in case others in your organization are already working with TensorFlow)
 
 ##### Block 3.4:
 - [ ] Read the sections: ["Time Series Forecasting"](https://franziskahorn.de/mlbook/_time_series_forecasting.html) and ["Recommender Systems (Pairwise Data)"](https://franziskahorn.de/mlbook/_recommender_systems_pairwise_data.html)
@@ -89,11 +89,11 @@ You can also find the course syllabus on the last page of the [course descriptio
 - [ ] Read the whole chapter: ["Avoiding Common Pitfalls"](https://franziskahorn.de/mlbook/_avoiding_common_pitfalls.html)
 
 ##### Block 4.2:
-- [ ] Work through [Notebook 6: analyze toy dataset](/exercises/6_analyze_toydata.ipynb)
+- [ ] Work through [Notebook 6: analyze toy dataset](/notebooks/6_analyze_toydata.ipynb)
 - [ ] Have a look at the [cheat sheet](/cheatsheet.pdf), which includes a summary of the most important steps when developing a machine learning solution, incl. code snippets
 
 ##### Block 4.3:
-- [ ] _Case Study!_ Work through [Notebook 7: predicting hard drive failures](/exercises/7_hard_drive_failures.ipynb) (plan at least 5 hours for this!)
+- [ ] _Case Study!_ Work through [Notebook 7: predicting hard drive failures](/notebooks/7_hard_drive_failures.ipynb) (plan at least 5 hours for this!)
 
 ---
 
@@ -101,7 +101,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 
 ##### Block 5.1:
 - [ ] Read the whole chapter: ["Reinforcement Learning"](https://franziskahorn.de/mlbook/_reinforcement_learning.html)
-- [ ] Work through [Notebook 8: RL gridmove](/exercises/8_rl_gridmove.ipynb)
+- [ ] Work through [Notebook 8: RL gridmove](/notebooks/8_rl_gridmove.ipynb)
 
 ##### Block 5.2:
 - [ ] Answer [Quiz 5](https://forms.gle/uZGj54YQHKwckmL46)
