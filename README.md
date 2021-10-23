@@ -22,11 +22,11 @@ While Google Colab already includes most packages that we need, should you requi
 
 ## Course Overview
 
-For an optimal learning experience, the chapters from the [machine learning book](https://franziskahorn.de/mlbook/) should be interleaved with quizzes and programming exercises as shown below. Additionally, you should take notes in the workbook while working through the materials.
+For an optimal learning experience, the chapters from the [machine learning book](https://franziskahorn.de/mlbook/) should be interleaved with quizzes and programming exercises as shown below. Additionally, you should take notes in the [workbook](/other/ml_course_workbook.pdf) while working through the materials.
 
-**Important:** Please make note of all questions that arise while working through the materials. At the beginning of each group session, we'll collect everyone's questions and discuss them.
+**Important:** Please make a note of all questions that arise while working through the materials. At the beginning of each group session, we'll collect everyone's questions and discuss them.
 
-You can also find the course syllabus on the last page of the [course description](/ml_course_description.pdf), which explicitly lists all the sections of the book for each block.
+You can also find the course syllabus on the last page of the [course description](/ml_course_description.pdf), which explicitly lists the sections of the book for each block.
 
 ---
 
@@ -34,7 +34,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 
 ##### Block 1.1:
 - [ ] Read the whole chapter: ["Introduction"](https://franziskahorn.de/mlbook/_introduction.html)
-- [ ] Answer [Quiz 1](https://forms.gle/uzdzytpsYf9sFG946)
+- [ ] Answer [Quiz 1](https://forms.gle/uzdzytpsYf9sFG946) (quizzes are also available in PDF form in the folder "other" in case you can't access Google Forms)
 
 ##### Block 1.2:
 - [ ] Read the whole chapter: ["ML with Python"](https://franziskahorn.de/mlbook/_ml_with_python.html)
@@ -59,7 +59,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 - [ ] Work through [Notebook 2: image quantization](/notebooks/2_image_quantization.ipynb) (after the section on clustering)
 
 ##### Block 2.2:
-- [ ] Read the first sections of the chapter ["Supervised Learning"](https://franziskahorn.de/mlbook/_supervised_learning.html) up to and including ["Model Evaluation"](https://franziskahorn.de/mlbook/_model_evaluation.html)
+- [ ] Start reading the first sections of the chapter ["Supervised Learning"](https://franziskahorn.de/mlbook/_supervised_learning.html) up to and including ["Model Evaluation"](https://franziskahorn.de/mlbook/_model_evaluation.html)
 - [ ] Answer [Quiz 4](https://forms.gle/M2dDevwzicjcHLtc9)
 
 ---
@@ -71,7 +71,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 - [ ] **In parallel**, work through the respective sections of [Notebook 3: supervised comparison](/notebooks/3_supervised_comparison.ipynb)
 
 ##### Block 3.2:
-- [ ] Start with the chapter ["Deep Learning & more"](https://franziskahorn.de/mlbook/_deep_learning_more.html) up to and including the section: ["Information Retrieval (Similarity Search)"](https://franziskahorn.de/mlbook/_information_retrieval_similarity_search.html) and refresh your memory on the sections on [TF-IDF feature vectors](https://franziskahorn.de/mlbook/_feature_extraction.html) and [cosine similarity](https://franziskahorn.de/mlbook/_computing_similarities.html)
+- [ ] Start reading the chapter ["Deep Learning & more"](https://franziskahorn.de/mlbook/_deep_learning_more.html) up to and including the section: ["Information Retrieval (Similarity Search)"](https://franziskahorn.de/mlbook/_information_retrieval_similarity_search.html) and refresh your memory about [TF-IDF feature vectors](https://franziskahorn.de/mlbook/_feature_extraction.html) and [cosine similarity](https://franziskahorn.de/mlbook/_computing_similarities.html)
 - [ ] Work through [Notebook 4: information retrieval](/notebooks/4_information_retrieval.ipynb)
 
 ##### Block 3.3:
@@ -107,5 +107,6 @@ You can also find the course syllabus on the last page of the [course descriptio
 - [ ] Answer [Quiz 5](https://forms.gle/uZGj54YQHKwckmL46)
 - [ ] Read the whole chapter: ["Conclusion"](https://franziskahorn.de/mlbook/_conclusion.html)
 - [ ] Complete the exercise: ["Your next ML Project"](/other/exercise_your_ml_project.pdf) (in case you need some inspiration for a project idea, have a look at [how ML could be used to fight climate change](https://www.climatechange.ai/summaries)). Feel free to prepare a few slides or use the [Word template](/other/exercise_your_ml_project_template.docx) and aim for a 5 minute presentation.
+- [ ] Please fill out the [Feedback Survey](https://forms.gle/Ccv5h5zQxwPjWtCS7) to help me further improve this course! :-)
 
 ---
