@@ -59,7 +59,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 - [ ] Work through [Notebook 2: image quantization](/notebooks/2_image_quantization.ipynb) (after the section on clustering)
 
 ##### Block 2.2:
-- [ ] Start reading the first sections of the chapter ["Supervised Learning"](https://franziskahorn.de/mlbook/_supervised_learning.html) up to and including ["Model Evaluation"](https://franziskahorn.de/mlbook/_model_evaluation.html)
+- [ ] Read the chapter ["Supervised Learning Basics"](https://franziskahorn.de/mlbook/_supervised_learning_basics.html)
 - [ ] Answer [Quiz 4](https://forms.gle/M2dDevwzicjcHLtc9)
 
 ---
@@ -67,11 +67,11 @@ You can also find the course syllabus on the last page of the [course descriptio
 ### Part 3: Advanced models
 
 ##### Block 3.1:
-- [ ] Read the remaining sections from the supervised learning chapter, i.e., ["Linear Models"](https://franziskahorn.de/mlbook/_linear_models.html) up to and including ["Kernel Methods"](https://franziskahorn.de/mlbook/_kernel_methods.html)
+- [ ] Read the chapter ["Supervised Learning Models"](https://franziskahorn.de/mlbook/_supervised_learning_models.html)
 - [ ] **In parallel**, work through the respective sections of [Notebook 3: supervised comparison](/notebooks/3_supervised_comparison.ipynb)
 
 ##### Block 3.2:
-- [ ] Start reading the chapter ["Deep Learning & more"](https://franziskahorn.de/mlbook/_deep_learning_more.html) up to and including the section: ["Information Retrieval (Similarity Search)"](https://franziskahorn.de/mlbook/_information_retrieval_similarity_search.html) and refresh your memory about [TF-IDF feature vectors](https://franziskahorn.de/mlbook/_feature_extraction.html) and [cosine similarity](https://franziskahorn.de/mlbook/_computing_similarities.html)
+- [ ] Start reading the chapter ["Deep Learning & more"](https://franziskahorn.de/mlbook/_deep_learning_more.html) up to and including the section: ["Information Retrieval (Similarity Search)"](https://franziskahorn.de/mlbook/_information_retrieval_similarity_search.html) and refresh your memory about [TF-IDF feature vectors](https://franziskahorn.de/mlbook/_feature_extraction.html) and the [cosine similarity](https://franziskahorn.de/mlbook/_computing_similarities.html)
 - [ ] Work through [Notebook 4: information retrieval](/notebooks/4_information_retrieval.ipynb)
 
 ##### Block 3.3:
@@ -79,7 +79,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 - [ ] Work through [Notebook 5: MNIST with torch](/notebooks/5_mnist_torch.ipynb) (recommended) **_or_** [MNIST with keras](/notebooks/5_mnist_keras.ipynb) (in case others in your organization are already working with TensorFlow)
 
 ##### Block 3.4:
-- [ ] Read the sections: ["Time Series Forecasting"](https://franziskahorn.de/mlbook/_time_series_forecasting.html) and ["Recommender Systems (Pairwise Data)"](https://franziskahorn.de/mlbook/_recommender_systems_pairwise_data.html)
+- [ ] Read the last sections of the chapter "Deep Learning & more": ["Time Series Forecasting"](https://franziskahorn.de/mlbook/_time_series_forecasting.html) and ["Recommender Systems (Pairwise Data)"](https://franziskahorn.de/mlbook/_recommender_systems_pairwise_data.html)
 
 ---
 
