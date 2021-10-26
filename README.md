@@ -34,6 +34,7 @@ You can also find the course syllabus on the last page of the [course descriptio
 
 ##### Block 1.1:
 - [ ] Read the whole chapter: ["Introduction"](https://franziskahorn.de/mlbook/_introduction.html)
+- [ ] Don't forget to take notes in the [workbook](/other/ml_course_workbook.pdf) (throughout the whole course)
 - [ ] Answer [Quiz 1](https://forms.gle/uzdzytpsYf9sFG946) (quizzes are also available in PDF form in the folder "other" in case you can't access Google Forms)
 
 ##### Block 1.2:
