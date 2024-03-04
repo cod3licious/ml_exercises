@@ -1,10 +1,11 @@
 ipython>=8.2.0
 notebook>=6.4.10
 numpy>=1.22.3
+matplotlib>=3.5.1
 pandas>=1.4.2
 scipy>=1.8.0
 scikit-learn>=1.2.0
-matplotlib>=3.5.1
+joblib>=1.2.0
 pillow>=9.1.0
 plotly>=5.7.0
 xlrd>=2.0.1
