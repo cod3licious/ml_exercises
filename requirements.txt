@@ -1,6 +1,6 @@
 ipython>=8.2.0
 notebook~=6.5.6
-numpy>=1.22.3
+numpy>=1.22.3,<2
 matplotlib>=3.5.1
 pandas>=1.4.2
 scipy>=1.8.0
@@ -10,4 +10,4 @@ pillow>=9.1.0
 plotly>=5.7.0
 xlrd>=2.0.1
 requests>=2.27.1
-fastapi[all]>=0.89.0
+fastapi[all]>=0.109.2
