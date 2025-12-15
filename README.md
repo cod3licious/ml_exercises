@@ -8,7 +8,7 @@ Have fun!
 
 ### Using Python
 
-The programming exercises are written in Python. If you're unfamiliar with Python, you should work through [this tutorial](https://github.com/cod3licious/python_tutorial) first.
+The programming exercises are written in Python. If you're unfamiliar with Python, you should work through [this tutorial](https://github.com/cod3licious/python_tutorial) first. (Additionally, you might want to refresh your memory on the [linear algebra basics](https://franziskahorn.de/mlws_resources/math_basics.pdf), which will also come in very handy.)
 
 #### Working on your own computer
 The [Python tutorial](https://github.com/cod3licious/python_tutorial) includes some notes on how to install Python and Jupyter Notebook on your own computer. <br>
@@ -31,4 +31,4 @@ However, please note that MyBinder may take a while to load and some notebooks m
 
 If you have a Google account, you can also run the notebooks in Google Colab, which is faster than MyBinder:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cod3licious/ml_exercises) <br>
-While Google Colab already includes most packages that we need, should you require an additional library (e.g., `fastapi[all]` for the case study in notebook 5b), you can install a package by executing `!pip install package` in a notebook cell. With Colab, it is also possible to run code on a GPU, but this has to be manually selected. Please note that for some notebooks you need to additionally upload the required data files separately.
+While Google Colab already includes most packages that we need, should you require an additional library (e.g., `fastapi[all]` for the case study in notebook 5b), you can install a package by executing `!pip install <package>` in a notebook cell. With Colab, it is also possible to run code on a GPU, but this has to be manually selected. Please note that for some notebooks you need to additionally upload the required data files separately.
